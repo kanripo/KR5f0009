@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
-<pb:KR5f0009_SBCK_003-31b>
 <md:KR5f0009_HFL_000-001a>¶
 <pb:KR5f0009_SBCK_000-1a>
 鶡冠子序
@@ -24,6 +23,7 @@
 釋其可知者而其不可考者輙疑焉¶以俟⬤
 洽君子
 <pb:KR5f0009_SBCK_000-2a>
+# SB1_0418-006.png
 讀鶡冠子
 　　　　　　　　韓　愈
 鶡冠子十有六篇其詞雜黄老刑名其愽選
@@ -32,3 +32,4 @@
 於無所用中流失船一壺千金者余三讀其
 辭而悲之文字脫繆為之正三十有五字乙
 者三减者二十有二注十有二字云
+<pb:KR5f0009_SBCK_000-2b>
